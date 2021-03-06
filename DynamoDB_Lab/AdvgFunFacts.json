@@ -1,0 +1,27 @@
+[
+    {
+      "RecordNumber": "1",
+      "CountryId": "1",
+      "Text": "Italy has more earthquakes than any other European country."
+    },
+    {
+      "RecordNumber": "2",
+      "CountryId": "2",
+      "Text": "The Great Barrier Reef is the largest eco-system in the world."
+    },
+    {
+      "RecordNumber": "3",
+      "CountryId": "1",
+      "Text": "The colors of the Italian flag–green, white, and red–have special meaning. Green represents hope, white represents faith, and red signals charity."
+    },
+    {
+      "RecordNumber": "4",
+      "CountryId": "1",
+      "Text": "Another interesting fact about Italy, the capital city of Rome is almost 3,000 years old."
+    },
+    {
+      "RecordNumber": "5",
+      "CountryId": "2",
+      "Text": "Tasmania has the cleanest air in the world."
+    }
+  ]

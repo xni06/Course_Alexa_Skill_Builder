@@ -1,0 +1,79 @@
+[
+  {
+    "CountryId": "1",
+    "QuestionNumber": 1,
+    "NoEnergyImpact": 5,
+    "NoResponseText": "Oh no, your wealth decreases by 5 and your energy increases by 5.",
+    "NoWealthImpact": -5,
+    "Tip": "You can't visit Italy without taking a gondola ride. Go for it!",
+    "YesEnergyImpact": 10,
+    "YesResponseText": "You've made a great choice adventurer. You Wealth decreases by 10 but your energy increases by 5.",
+    "YesWealthImpact": -10
+  },
+  {
+    "CountryId": "1",
+    "QuestionNumber": 2,
+    "NoEnergyImpact": 5,
+    "NoResponseText": "The commotion in the square was a violent protest. Good job adventurer, you do not have to run away. Your energy increases by 5.",
+    "NoWealthImpact": 0,
+    "Tip": "I see police officers in the square. I wouldn't risk it.",
+    "YesEnergyImpact": 0,
+    "YesResponseText": "Oh no, adventurer. The protest in the square was a violent protest. You get locked up in jail. But you're in luck, you can pay to get out. Your wealth decreases by 5.",
+    "YesWealthImpact": -5
+  },
+  {
+    "CountryId": "2",
+    "QuestionNumber": 3,
+    "NoEnergyImpact": 5,
+    "NoResponseText": "Great choice, the sheep dog is not too friendly. He tends to chase strangers. Your wealth stays the same and your engergy increases by 5.",
+    "NoWealthImpact": 0,
+    "Tip": "I've heard the sheep dog is not too friendly.",
+    "YesEnergyImpact": -5,
+    "YesResponseText": "Oh no! The sheep dog doesn't like you. He spends most of his time chasing you. Your wealth decreases by 5 and your energy decreases by 5.",
+    "YesWealthImpact": -10
+  },
+  {
+    "CountryId": "1",
+    "QuestionNumber": 3,
+    "NoEnergyImpact": -5,
+    "NoResponseText": "Oh no, now you have to pay double the price when your travel partner decides to take this tour later during your adventure. Your wealth decreases by 10 and your energy descreases by 5.",
+    "NoWealthImpact": -10,
+    "Tip": "A private pasta-making lesson at a working Tuscan farm? That sounds like fun adventurer.",
+    "YesEnergyImpact": 10,
+    "YesResponseText": "You've made a great choice adventurer. You Wealth increases by 10 and your energy increases by 10.",
+    "YesWealthImpact": 10
+  },
+  {
+    "CountryId": "1",
+    "QuestionNumber": 4,
+    "NoEnergyImpact": -10,
+    "NoResponseText": "Oh no, you found it thrilling to pretend to be one of the gladiators, but you are now exhausted. Your wealth stays the same and your energy descreases by 10.",
+    "NoWealthImpact": 0,
+    "Tip": "Touring the colosseum can be a rather exhausting experience.",
+    "YesEnergyImpact": 15,
+    "YesResponseText": "You've made a great choice adventurer. You take a quick rest during your adventure, you wealth decreases by 5 and your energy increases by 15.",
+    "YesWealthImpact": -5
+  },
+  {
+    "CountryId": "2",
+    "QuestionNumber": 1,
+    "NoEnergyImpact": 10,
+    "NoResponseText": "Great choice adventurer, after flying for hours to reach Australia, rest is exactly what you need. Your wealth stays the same and your energy increases by 10.",
+    "NoWealthImpact": 0,
+    "Tip": "Taking this tour right when you land could be rather exhausting.",
+    "YesEnergyImpact": -5,
+    "YesResponseText": "Oh no, after flying for hours to reach Australia, you are too exhausted to enjoy the tour. Your wealth stays the same but your energy decreases by 5.",
+    "YesWealthImpact": 0
+  },
+  {
+    "CountryId": "2",
+    "QuestionNumber": 2,
+    "NoEnergyImpact": -10,
+    "NoResponseText": "The camel could have really helped you to explore the desert. Your wealth decreases by 5 becasue you call an Uber to leave early and your energy decreases by 10.",
+    "NoWealthImpact": -5,
+    "Tip": "Taking this tour right when you land could be rather exhausting.",
+    "YesEnergyImpact": 5,
+    "YesResponseText": "Great choice adventurer. The camel saves your energy and allows you to see more of the desert. Your wealth decreases by 5 and your energy increases by 10.",
+    "YesWealthImpact": -10
+  }
+]
